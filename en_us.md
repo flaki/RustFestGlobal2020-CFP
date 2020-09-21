@@ -1,4 +1,7 @@
-# Call for Proposals
+---
+language: en
+---
+# Call for Proposals — apply to give a talk at RustFest Global 2020!
 
 This document applies to RustFest Global 2020 CfP. The proposals will be reviewed by our CfP committee.
 
@@ -29,9 +32,9 @@ There are about a million reasons why you don’t consider yourself a speaker. W
 - We are happy to connect you with mentors early on to help prepare your submission, or you can refer to the Example Submission section below for tips.
 - We are happy to review and advise on how to produce a slide deck.
 - If you need practice giving talks, get in touch, we can hook you up with local groups or set up a stage for you and a bunch of friends in advance, so you can practice in front of a friendly crowd.
-- Again, whatever else you might need, we’re here to help. Get in touch: [speakers@rustfest.eu](mailto:speakers@rustfest.eu) (just do NOT use this to submit a proposal).
+- Again, whatever else you might need, we’re here to help. Get in touch: [coaching@rustfest.eu](mailto:coaching@rustfest.eu) (just do NOT use this to submit a proposal).
 
-If you need more encouragement, check out the following site from Tiffany Conroy, [We Are All Awesome](http://weareallaweso.me/) that tries to convince you to speak. For guides on the practical parts, see Zach Holmans [speaking.io](http://speaking.io/).
+If you need more encouragement, check out the following site from Tiffany Conroy, [We Are All Awesome](http://weareallaweso.me/) that tries to convince you to speak. For guides on the practical parts, see Zach Holman's [speaking.io](http://speaking.io/).
 
 ## Accessibility
 
@@ -52,13 +55,14 @@ We expect more submissions than speaking slots. The process helps us to select t
 
 ## Guidelines
 
-**Submit your proposal by Wednesday 23rd of September at 23:59 UTC**. No excuses. You will receive word of your reviewed proposal before Monday 5th of October.
+~~Submit your proposal by Wednesday 23rd of September at 23:59 UTC~~.  
+**The deadline for proposals has been extended until Wednesday, 30th September, 23:59 UTC**. No excuses. You will receive word of your reviewed proposal before Monday 12th of October.
 
-For RustFest Global we accept talks in any language. We will try to arrange a translator if your talk is not in English. Pending the availability of such a translator your talk might need to be pre-recorded.
+For RustFest Global we accept talks in any language. All talks accepted in languages other than in English will include professional subtitles in English when they are aired. For this will ask you to pre-record your talk at least a week in advance (in all these cases one of the oorganizers will be in touch with you and will be able to provide help with the recording).
 
 Talks are 25 or 55 minutes long (for longer talks we’d get in touch with you directly). That includes 3-5 minutes of Q&A. We will be on a tight schedule and enforce the end of a talk rigorously. Please notify us in advance how long you want your slot to be. We suggest timing your presentation in advance.
 
-Make sure you care and make sure we see you care. Typos, sloppy formatting and all-lowercase submissions make our reading of your proposal tedious. These things will definitely count against your proposal.
+Make sure you care and make sure we see you care. Typos, sloppy formatting and all-lowercase submissions make our reading of your proposal tedious. These things will definitely count against your proposal. That said, we understand that for many submitters English might not be their native language: our CfP committee consists of amazing people who can tell the difference. To reiterate, just put as much care into your proposal as we do evaluating them.
 
 Do not overdo it either. If you need more than two paragraphs to get to the point of your topic, we need to ask you to slim things down. With the amount of submissions we get, the quicker you can make a good impression, the better.
 
@@ -80,22 +84,24 @@ If your talk is accepted and you would like to submit a pre-recorded talk we enc
 
 If you get selected as a speaker at RustFest, here’s what you get:
 
-- Access to the virtual conference. If you get selected to speak and if you need to, we can refund your ticket, but if you don’t, we can spend more money on making the conference more awesome and accessible <3.
-- Gear required to make your talk a success. For example if you require a webcam or microphone, we can discuss how to get one to you.
+- Full access to the virtual conference. If happen to already have purchased a ticket we can refund you.
+- Gear required to make your talk a success. For example if you require a webcam or microphone, we can discuss how to get one to you. We provide an up to 200 EUR reimbursement budget for all speakers for hardware expenses (just keep your receipts and submit them after the conference). We can also purchase and send you hardware if you cannot afford the upfront costs, please let us know and we will take care of it.
+- A 200 EUR stipend for your efforts. Speakers should be compensated for their efforts: preparing and presenting a talk takes time and effort and we want to offset some of this work by sharing the funds provided by our sponsors and attendees. We will require an invoice, and you will be able to take care of any taxation requirements of this income that might arise in your country. Alternatively, if you can't or don't want to accept these funds we can donate it to your chosen non-profit organization (some restrictions may apply).
+- Extra perks like [streaming micropayments](https://webmonetization.org/docs/explainer) from attendees who are watching your presentation. Expect more info on these experiments later!
 
 ## Example Submission
 
 Here’s a proposal that we accepted at another conference:
 
-### How To Be Better
-
-A lot of the principles of clean code are forgotten when writing documentation.
-
-Have a single source of truth and don't repeat yourself. Avoid writing brittle code. Use ubiquitous terminology and choose searchable names. Be consistent in your formatting. Test your code. Refactor and practice successive refinement. Don't write any more than you need to.
-
-These principles of clean code can be applied with great effect to the production and maintenance of documentation, but there's more to it than that. Code needs to satisfy machines and coders. Documentation needs to satisfy people performing range of different tasks: from cursory inspection through to intensive development.
-
-This talk will review relevant principles and examine real-world examples, leaving you with a practical mental checklist for writing documentation that will help your users and your software thrive.
+> ### How To Be Better
+>
+> A lot of the principles of clean code are forgotten when writing documentation.
+>
+> Have a single source of truth and don't repeat yourself. Avoid writing brittle code. Use ubiquitous terminology and choose searchable names. Be consistent in your formatting. Test your code. Refactor and practice successive refinement. Don't write any more than you need to.
+>
+> These principles of clean code can be applied with great effect to the production and maintenance of documentation, but there's more to it than that. Code needs to satisfy machines and coders. Documentation needs to satisfy people performing range of different tasks: from cursory inspection through to intensive development.
+>
+> This talk will review relevant principles and examine real-world examples, leaving you with a practical mental checklist for writing documentation that will help your users and your software thrive.
 
 ## Misc
 
