@@ -1,5 +1,3 @@
-# RustFest Global 2020 CFP
-
 # Call for Proposals
 
 This document applies to RustFest Global 2020 CfP. The proposals will be reviewed by our CfP committee.
@@ -10,7 +8,7 @@ We want to encourage new speakers to get on the virtual stage or experienced spe
 
 ## Topics for RustFest
 
-RustFest is a Rust event. We are looking for Rust topics or topics that would interest Rustaceans (people involved with Rust). The Rust community is a very curious one, so talks about interesting new developments in the world of programming are welcome. Topics covering the social aspects of programming are also met with big interest.
+RustFest is a Rust event. We are looking for Rust topics or topics that would interest Rustaceans (people involved with Rust). The Rust community is a very curious one, so talks about interesting new developments idmesn the world of programming are welcome. Topics covering the social aspects of programming are also met with big interest.
 Open slots and chances of acceptance
 
 RustFest Global will be held in three blocks to cover the American, European/African and Asian/Australian timezones. RustFest will have 4 to 8 regular speaking slots per block, depending on the length of the individual talks. When submitting please state your availability for each of these timezones.
@@ -106,3 +104,4 @@ Besides being livestreamed, all talks will also be recorded, transcribed, and pu
 We do this for the benefit of the larger Rust community and those who can’t make it to the conference. We hope you want to help out, but if you are uncomfortable in any way, let us know and we will work things out.
 
 Finally, since you retain full ownership of your slides and recording, we’d like to ask you to make your materials and recording available under a creative commons or other open source license.
+
