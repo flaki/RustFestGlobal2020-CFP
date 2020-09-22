@@ -11,7 +11,7 @@ We want to encourage new speakers to get on the virtual stage or experienced spe
 
 ## Topics for RustFest
 
-RustFest is a Rust event. We are looking for Rust topics or topics that would interest Rustaceans (people involved with Rust). The Rust community is a very curious one, so talks about interesting new developments idmesn the world of programming are welcome. Topics covering the social aspects of programming are also met with big interest.
+RustFest is a Rust event. We are looking for Rust topics or topics that would interest Rustaceans (people involved with Rust). The Rust community is a very curious one, so talks about interesting new developments in the world of programming are welcome. Topics covering the social aspects of programming are also met with big interest.
 Open slots and chances of acceptance
 
 RustFest Global will be held in three blocks to cover the American, European/African and Asian/Australian timezones. RustFest will have 4 to 8 regular speaking slots per block, depending on the length of the individual talks. When submitting please state your availability for each of these timezones.
@@ -84,7 +84,7 @@ If your talk is accepted and you would like to submit a pre-recorded talk we enc
 
 If you get selected as a speaker at RustFest, here’s what you get:
 
-- Full access to the virtual conference. If happen to already have purchased a ticket we can refund you.
+- Full access to the virtual conference. If you happen to already have purchased a ticket we can refund you.
 - Gear required to make your talk a success. For example if you require a webcam or microphone, we can discuss how to get one to you. We provide an up to 200 EUR reimbursement budget for all speakers for hardware expenses (just keep your receipts and submit them after the conference). We can also purchase and send you hardware if you cannot afford the upfront costs, please let us know and we will take care of it.
 - A 200 EUR stipend for your efforts. Speakers should be compensated for their efforts: preparing and presenting a talk takes time and effort and we want to offset some of this work by sharing the funds provided by our sponsors and attendees. We will require an invoice, and you will be able to take care of any taxation requirements of this income that might arise in your country. Alternatively, if you can't or don't want to accept these funds we can donate them to a non-profit organization of your choice (restrictions may apply).
 - Extra perks like [streaming micropayments](https://webmonetization.org/docs/explainer) from attendees who are watching your presentation. Expect more details on these experiments later!
