@@ -86,8 +86,8 @@ If you get selected as a speaker at RustFest, here’s what you get:
 
 - Full access to the virtual conference. If happen to already have purchased a ticket we can refund you.
 - Gear required to make your talk a success. For example if you require a webcam or microphone, we can discuss how to get one to you. We provide an up to 200 EUR reimbursement budget for all speakers for hardware expenses (just keep your receipts and submit them after the conference). We can also purchase and send you hardware if you cannot afford the upfront costs, please let us know and we will take care of it.
-- A 200 EUR stipend for your efforts. Speakers should be compensated for their efforts: preparing and presenting a talk takes time and effort and we want to offset some of this work by sharing the funds provided by our sponsors and attendees. We will require an invoice, and you will be able to take care of any taxation requirements of this income that might arise in your country. Alternatively, if you can't or don't want to accept these funds we can donate it to your chosen non-profit organization (some restrictions may apply).
-- Extra perks like [streaming micropayments](https://webmonetization.org/docs/explainer) from attendees who are watching your presentation. Expect more info on these experiments later!
+- A 200 EUR stipend for your efforts. Speakers should be compensated for their efforts: preparing and presenting a talk takes time and effort and we want to offset some of this work by sharing the funds provided by our sponsors and attendees. We will require an invoice, and you will be able to take care of any taxation requirements of this income that might arise in your country. Alternatively, if you can't or don't want to accept these funds we can donate them to a non-profit organization of your choice (restrictions may apply).
+- Extra perks like [streaming micropayments](https://webmonetization.org/docs/explainer) from attendees who are watching your presentation. Expect more details on these experiments later!
 
 ## Example Submission
 
@@ -105,7 +105,9 @@ Here’s a proposal that we accepted at another conference:
 
 ## Misc
 
-Besides being livestreamed, all talks will also be recorded, transcribed, and published on the internet for free, along with a recording of the slide deck, live-demo or other on-presenter-screen activity.
+Besides being livestreamed, all talks will also be recorded, transcribed, and — with your permission and after your review — published on the [Rust videos YouTube channel](https://youtube.com/RustVideos),
+along with a recording of the slide deck, live-demo or other on-presenter-screen activity.
+The Rust Videos YouTube channel is managed and moderated by the [Rust Community team](https://www.rust-lang.org/community).
 
 We do this for the benefit of the larger Rust community and those who can’t make it to the conference. We hope you want to help out, but if you are uncomfortable in any way, let us know and we will work things out.
 
