@@ -58,7 +58,7 @@ We expect more submissions than speaking slots. The process helps us to select t
 ~~Submit your proposal by Wednesday 23rd of September at 23:59 UTC~~.  
 **The deadline for proposals has been extended until Wednesday, 30th September, 23:59 UTC**. No excuses. You will receive word of your reviewed proposal before Monday 12th of October.
 
-For RustFest Global we accept talks in any language. All talks accepted in languages other than in English will include professional subtitles in English when they are aired. For this will ask you to pre-record your talk at least a week in advance (in all these cases one of the oorganizers will be in touch with you and will be able to provide help with the recording).
+For RustFest Global we accept talks in any language. All talks accepted in languages other than in English will include professional subtitles in English when they are aired. For this we will ask you to pre-record your talk at least a week in advance (in all these cases one of the organizers will be in touch with you and will be able to provide help with the recording).
 
 Talks are 25 or 55 minutes long (for longer talks we’d get in touch with you directly). That includes 3-5 minutes of Q&A. We will be on a tight schedule and enforce the end of a talk rigorously. Please notify us in advance how long you want your slot to be. We suggest timing your presentation in advance.
 
