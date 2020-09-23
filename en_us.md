@@ -5,7 +5,7 @@ language: en
 
 This document applies to RustFest Global 2020 CfP. The proposals will be reviewed by our CfP committee.
 
-We are inviting the Rust community to submit talks for our conference! This Call for Proposals will close on Wednesday 23rd of September at 23:59 UTC. When you’re ready to submit a proposal, visit [our CfP submission app](https://cfp.rustfest.eu//events/2020) and login with your Twitter or GitHub credentials or create an account.
+We are inviting the Rust community to submit talks for our conference! This Call for Proposals will close on Wednesday 30th of September at 23:59 UTC. When you’re ready to submit a proposal, visit [our CfP submission app](https://cfp.rustfest.eu//events/2020) and login with your Twitter or GitHub credentials or create an account.
 
 We want to encourage new speakers to get on the virtual stage or experienced speakers to try out something new. Never have given a talk at a conference or thinking about changing the main topic of your speaking efforts? We are your conference!
 
@@ -62,7 +62,7 @@ For RustFest Global we accept talks in any language. All talks accepted in langu
 
 Talks are 25 or 55 minutes long (for longer talks we’d get in touch with you directly). That includes 3-5 minutes of Q&A. We will be on a tight schedule and enforce the end of a talk rigorously. Please notify us in advance how long you want your slot to be. We suggest timing your presentation in advance.
 
-Make sure you care and make sure we see you care. Typos, sloppy formatting and all-lowercase submissions make our reading of your proposal tedious. These things will definitely count against your proposal. That said, we understand that for many submitters English might not be their native language: our CfP committee consists of amazing people who can tell the difference. To reiterate, just put as much care into your proposal as we do evaluating them.
+Make sure you care and make sure we see you care. Typos, sloppy formatting and all-lowercase submissions make our reading of your proposal tedious. These things will definitely count against your proposal.
 
 Do not overdo it either. If you need more than two paragraphs to get to the point of your topic, we need to ask you to slim things down. With the amount of submissions we get, the quicker you can make a good impression, the better.
 
